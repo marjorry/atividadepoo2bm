@@ -20,7 +20,6 @@ public class Painel : MonoBehaviour
         
         sliderEnergia.minValue = 0;
         sliderEnergia.maxValue = personagem.getenergia();
-        sliderEnergia.minValue = personagem.getenergia();
 
     }
     
